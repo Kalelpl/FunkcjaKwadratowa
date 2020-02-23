@@ -1,0 +1,11 @@
+/Users/jakub/Desktop/Projekty/C#/FunkcjaKwadratowa/FunkcjaKwadratowa/bin/Debug/netcoreapp3.1/FunkcjaKwadratowa
+/Users/jakub/Desktop/Projekty/C#/FunkcjaKwadratowa/FunkcjaKwadratowa/bin/Debug/netcoreapp3.1/FunkcjaKwadratowa.deps.json
+/Users/jakub/Desktop/Projekty/C#/FunkcjaKwadratowa/FunkcjaKwadratowa/bin/Debug/netcoreapp3.1/FunkcjaKwadratowa.runtimeconfig.json
+/Users/jakub/Desktop/Projekty/C#/FunkcjaKwadratowa/FunkcjaKwadratowa/bin/Debug/netcoreapp3.1/FunkcjaKwadratowa.runtimeconfig.dev.json
+/Users/jakub/Desktop/Projekty/C#/FunkcjaKwadratowa/FunkcjaKwadratowa/bin/Debug/netcoreapp3.1/FunkcjaKwadratowa.dll
+/Users/jakub/Desktop/Projekty/C#/FunkcjaKwadratowa/FunkcjaKwadratowa/bin/Debug/netcoreapp3.1/FunkcjaKwadratowa.pdb
+/Users/jakub/Desktop/Projekty/C#/FunkcjaKwadratowa/FunkcjaKwadratowa/obj/Debug/netcoreapp3.1/FunkcjaKwadratowa.csprojAssemblyReference.cache
+/Users/jakub/Desktop/Projekty/C#/FunkcjaKwadratowa/FunkcjaKwadratowa/obj/Debug/netcoreapp3.1/FunkcjaKwadratowa.AssemblyInfoInputs.cache
+/Users/jakub/Desktop/Projekty/C#/FunkcjaKwadratowa/FunkcjaKwadratowa/obj/Debug/netcoreapp3.1/FunkcjaKwadratowa.AssemblyInfo.cs
+/Users/jakub/Desktop/Projekty/C#/FunkcjaKwadratowa/FunkcjaKwadratowa/obj/Debug/netcoreapp3.1/FunkcjaKwadratowa.dll
+/Users/jakub/Desktop/Projekty/C#/FunkcjaKwadratowa/FunkcjaKwadratowa/obj/Debug/netcoreapp3.1/FunkcjaKwadratowa.pdb

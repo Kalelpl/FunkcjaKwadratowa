@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{E829B071-ACDB-4943-A548-51D5D7B425B3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FunkcjaKwadratowa/Program.cs">
+    <Files>
+      <File FileName="FunkcjaKwadratowa/Program.cs" Line="30" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FunkcjaKwadratowa" expanded="True">
+            <Node name="FunkcjaKwadratowa" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FunkcjaKwadratowa PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
